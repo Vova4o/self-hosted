@@ -12,3 +12,4 @@ secrets.env.old
 compose.override.yml
 compose.override.yml.old
 .DS_Store
+DEPLOYMENT.md
